@@ -65,3 +65,6 @@ apps/**/public/build
 /packages/python/src/package.json
 .claude
 .mcp.log
+
+.env.prod*
+*-registry-key.json
